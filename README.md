@@ -1,2 +1,15 @@
-# ecommerce-website-html-css
-This project is a simple e-commerce website built using HTML and CSS. It showcases product listings, categories, and a responsive layout for better user experience. The website is designed to demonstrate basic front-end web development concepts such as navigation menus, product cards, and styling with CSS. It serves as a beginner-level project to understand how online shopping platforms are structured visually
+# E-Commerce website html css
+
+in this repository you will see an html css template for a cool designed e-commerce website.
+
+## :heavy_check_mark: useful for who:
+
+-   wants to practice your html css skills
+
+## :heavy_check_mark: Authors
+
+-   created by Alireza Tayebinejad from: [@vibracode](https://www.github.com/octokatherine)
+
+## :heavy_check_mark: License
+
+free for everyone to use in any good purposes :heart:
