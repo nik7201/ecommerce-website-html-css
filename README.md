@@ -1,1 +1,2 @@
 # ecommerce-website-html-css
+This project is a simple e-commerce website built using HTML and CSS. It showcases product listings, categories, and a responsive layout for better user experience. The website is designed to demonstrate basic front-end web development concepts such as navigation menus, product cards, and styling with CSS. It serves as a beginner-level project to understand how online shopping platforms are structured visually
